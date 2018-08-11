@@ -1,0 +1,22 @@
+body {
+    background: rgb(192, 189, 189);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+.jumbotron {
+    background-color: rgb(97, 93, 93);
+    color: antiquewhite;
+}
+
+.antique {
+    color: antiquewhite;
+}
+
+input[type="text"], textarea {
+    background-color : antiquewhite; 
+}
+
+button[type="submit"] {
+    color : antiquewhite; 
+}
